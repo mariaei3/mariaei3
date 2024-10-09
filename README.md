@@ -79,7 +79,7 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mariaei3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/mariaei3/mariaei3/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mariaei3/output/github-contribution-grid-snake-dark.svg)
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so, say "hi" and let's contribute in a project
