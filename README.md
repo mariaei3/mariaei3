@@ -67,10 +67,6 @@
   </a>
 </div>
 
-
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mariaei3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/LizzyTrevisan/LizzyTrevisan/output/github-contribution-grid-snake-dark.svg)
 
