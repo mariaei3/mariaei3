@@ -10,8 +10,8 @@
 
 ## About me:
 - Fun fact:
--  🎓 Graduate in Systems Development - UNA 2024.2 
-- I have worked for 5 years as a business analyst in TI.
+- 🎓 Graduate in Análise e Desenvolvimento de Sistemas - Una 2024.2 
+-   I have worked for 5 years as a business analyst in TI.
 - 🔭 I’m looking to collaborate on commercial projects, volunteering for startups
 - 📫 How to reach me: [Email](maria.ei3@hotmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
