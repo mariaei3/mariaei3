@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm  Maria 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+## Oiii eu sou a Maria Clara, desenvolvedora fullstack!
+
 <h3 align="center">Aspiring Developer from Brasil </h3>
 
 ❤️ I prefer JS, MySQL on backend, however, I am familiar with other Machine Languages. I'm currently a Freelancer.
