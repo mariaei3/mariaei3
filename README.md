@@ -1,8 +1,6 @@
 ## Oiii eu sou a Maria Clara, desenvolvedora fullstack!
 
 
-#About me:
-
 🎓 Graduada em Análise e Desenvolvimento de Sistemas - Una 2024.2 
  - Colaboro em projetos comerciais, voluntariados e startups
  - Trabalho há mais de 5 anos como analista de negócios em TI.
