@@ -5,24 +5,6 @@
  🎓 Graduada em Análise e Desenvolvimento de Sistemas - Una 2024.2 
 - Colaboro em projetos comerciais, voluntariado para startups
 - Trabalho há mais de 5 anos como analista de negócios em TI.
-
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="400" center>            
-
-
-## My stack:
-
-- 5+ years in TI
-- Javascript
-- Typescript
-- HTML/HTML5
-- CSS/ CSS3
-- Bootstrap
-- Python
-- JSON
-- Flutter
-  
-  
   
 
 
