@@ -1,5 +1,5 @@
 ## Oiii eu sou a Maria Clara, desenvolvedora fullstack!
-<br
+<br>
 ## About me:
 
  🎓 Graduada em Análise e Desenvolvimento de Sistemas - Una 2024.2 
@@ -11,7 +11,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -32,8 +31,4 @@
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/LizzyTrevisan/LizzyTrevisan/output/github-contribution-grid-snake-dark.svg)
-
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so, say "hi" and let's contribute in a project
-
 
